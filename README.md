@@ -33,3 +33,7 @@ The Warehouses have a maximum capacity of storage, a location and a friendly ide
 - [ ] **EXTRA -** The API should implement a **caching** system to increase the read performances
 - [ ] **EXTRA -** The API should be protected by authentication with a **JWT Bearer token**
 - [ ] **EXTRA -** The project should embed a basic CI (Build & Test) using the **Github Actions**
+
+## Something is not clear? Any missing information?
+
+It's alright, don't be blocked: you can take assumption to move forward. Let us know why you chose to take this direction. :wink:
