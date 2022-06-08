@@ -1,8 +1,8 @@
-# Acme coding challenge
+# ACME coding challenge
 
-## :wave: Welcome !
+## :wave: Welcome!
 
-Here you will find all the details about the **Acme coding challenge** for the candidates who want to join the Winamp Dev Team !
+Here you will find all the details about the **ACME coding challenge** for the candidates who want to join the Winamp Dev Team!
 
 ## :blue_book: Summary
 
@@ -10,14 +10,16 @@ The ACME corp. need a web application to manage the stock of their products.
 
 In order to allow the front-end team to develop a wonderful web application, we will need a strong, tested, maintainable and performant back-end API.
 
-## :mag_right: Functional Informations
-The ACME products have a name, a description, a danger level, a list of pictures, a price in one currency and one universal ID
+## :mag_right: Functional Information
 
-The ACME products are stored in Warehouses
+The ACME products have a name, a description, a danger level, a list of pictures, a price in one currency and one universal ID.
 
-The Warehouses have a maximum capacity of storage, a location and a friendly identifier built as follow: `{country}-{ZIP}-{incremental number of 6 digits}` (e.g: **BE-1070-000001** )
+The ACME products are stored in Warehouses.
+
+The Warehouses have a maximum capacity of storage, a location and a friendly identifier built as follow: `{country}-{ZIP}-{incremental number of 6 digits}` (e.g: **BE-1070-000001**).
 
 ## :hammer_and_wrench: Technical Requirements
+
 - [ ] The code should be a **Fork** of the current Github repository
 - [ ] The API should be developed in .NET 6
 - [ ] The API should expose a Swagger UI
